@@ -1,4 +1,4 @@
-- Hi, I’m OryemaStephen
+- Hi, I’m Oryema Stephen
 - I’m a seasoned hydrogeologist who is interested in web development and data analysis with JavaScript, HTML, CSS, Python, R, SQL, Power BI, and Advanced MS Excel.
 - I am a certified associate data analyst from Datacamp.
 - I’m looking to collaborate on web development and data analysis projects to learn and contribute to the team's success.
