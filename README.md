@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Oryema Stephen</h1>
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=OryemaStephen&label=Profile%20views&color=0e75b6&style=flat](https://oryemasteph.netlify.app/assets/oryema-CktErTD0.jpg)" alt="oryemastephen" />
+  <img src="https://oryemasteph.netlify.app/assets/oryema-CktErTD0.jpg" alt="oryemastephen" />
 </p>
 
 <p align="center">
