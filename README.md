@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋🏾, I'm Oryema Stephen</h1>
-
-<p align="center">
-  <img src="https://oryemasteph.netlify.app/assets/oryema-CktErTD0.jpg" alt="oryemastephen" style="border-radius: 50%;" />
-</p>
-
 <p align="center">
   <a href="mailto:oryemasteve9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/oryema-stephen-76b891133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
