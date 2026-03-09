@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-I’m a **Full-Stack Software Developer** passionate about building scalable web applications and solving real-world problems with technology.
+I’m a ** Software Developer** passionate about building scalable web applications and solving real-world problems with technology.
 
 I specialize in **React, Nextjs, Node.js/ExpressJs, REST APIs, and database-driven applications**.
 
